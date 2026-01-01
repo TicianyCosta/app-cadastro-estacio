@@ -12,7 +12,7 @@ Aqui estão as telas funcionando no dispositivo móvel:
 
 | Tela Inicial (Lista) | Tela de Cadastro |
 |:---:|:---:|
-| <img src="./home-screen.jpeg" width="250" /> | <img src="./form-screen.jpeg" width="250" /> |
+| <img src="./assets/home-screen.jpeg" width="250" /> | <img src="./assets/form-screen.jpeg" width="250" /> |
 
 ---
 
