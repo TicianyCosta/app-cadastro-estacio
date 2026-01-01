@@ -50,14 +50,16 @@ Originalmente, o projeto poderia ser feito com Android Studio nativo. Porém, op
 
 O código foi organizado para facilitar a manutenção:
 
-CadastroEstacio/ 
-├── src/ 
-│ ├── components/ # Itens visuais reutilizáveis (Ex: ProdutoItem) 
-│ ├── data/ # Lógica de banco de dados (GestorDados.js) 
-│ ├── screens/ # Telas completas (Lista e Formulário)    
-│ └── styles/ # Estilos globais (CSS) ├── App.js # Configuração das Rotas/Navegação 
-└── app.json # Configuração do Expo
-
+```text
+CadastroEstacio/
+├── assets/          # Imagens e ícones do projeto
+├── src/
+│   ├── components/  # Itens visuais reutilizáveis (Ex: ProdutoItem)
+│   ├── data/        # Lógica de banco de dados (GestorDados.js)
+│   ├── screens/     # Telas completas (Lista e Formulário)
+│   └── styles/      # Estilos globais (CSS)
+├── App.js           # Configuração das Rotas/Navegação
+└── app.json         # Configuração do Expo
 ---
 
 ## 🛠️ Como rodar este projeto
