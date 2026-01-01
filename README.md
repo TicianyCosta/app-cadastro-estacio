@@ -60,6 +60,7 @@ CadastroEstacio/
 │   └── styles/      # Estilos globais (CSS)
 ├── App.js           # Configuração das Rotas/Navegação
 └── app.json         # Configuração do Expo
+```
 ---
 
 ## 🛠️ Como rodar este projeto
